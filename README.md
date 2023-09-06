@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a href="www.linkedin.com/in/luca-paulon-949247240">
+  <a href="https://www.linkedin.com/in/luca-paulon-949247240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/luca-paulon-949247240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca-paulon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luca-paulon-949247240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca-paulon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
